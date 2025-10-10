@@ -1,0 +1,14 @@
+________Why Oops?________
+Answer:
+
+1. C++ language was designed with the main intenion of adding object oriented programming features to the C language.
+
+2. As the size of the program increases, readability,maintainability and bug-free nature of programs decreases.
+
+3. This was the major problem with languages like C which relied upon functions or Procedures.
+
+4. As a result, the possibility of not addressing the problem in an effective manner was high.
+
+5. also, as data was almost neglected, data security was easily comprmied.
+
+6. Using classes solves the problem by modeling program as a real world scenario

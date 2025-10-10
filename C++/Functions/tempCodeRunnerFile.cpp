@@ -1,0 +1,1 @@
+currentMoney = currentMoney++;
