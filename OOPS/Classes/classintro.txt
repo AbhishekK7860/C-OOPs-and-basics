@@ -1,0 +1,14 @@
+// OOPS- Classes and objects
+    //  Class --> Extension of structures (in c)
+    //  Structures had limitations
+    //  --> Members are public
+    //  --> No methods
+    //  classes --> can have methods and properties
+    //  Classes --> can make members as private & few as public
+    //  you can declare objects along with the class declaration
+    //  Ex:
+    /*
+        class Employee{
+
+        } harry, rohan, lovish;
+    */
