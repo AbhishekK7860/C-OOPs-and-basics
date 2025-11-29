@@ -1,3 +1,0 @@
-Inheritance:
-
-1.Its Reusable And Reusability is a very important feature of Oops
